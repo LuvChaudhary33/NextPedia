@@ -1,3 +1,22 @@
+# NextPedia
+***Developed a full-stack website with responsive UI featuring a dynamic portfolio showcase, empowering users to create,
+publish, and manage their blog posts seamlessly. Additionally, incorporated Dark Mode to enhance user experience and
+accessibility.Implemented Next-Auth for advanced user authentication and authorization, and integrated Google Auth for user
+convenience. Implemented Next.js to achieve server-side rendering, significantly enhancing page load times and
+optimizing image delivery for a seamless and efficient user experience***
+
+## Home Page
+<img width="727" alt="Screenshot 2023-10-02 015657" src="https://github.com/LuvChaudhary33/NextPedia/assets/110561471/ef3b2dd5-0d37-43d3-b664-bf6a4dc69e08">
+
+## Portfolio
+<img width="718" alt="Screenshot 2023-10-02 020656" src="https://github.com/LuvChaudhary33/NextPedia/assets/110561471/32ccfafe-1e3f-456e-9ea0-f66f28b1584c">
+
+## Blog Page
+<img width="715" alt="Screenshot 2023-10-02 015751" src="https://github.com/LuvChaudhary33/NextPedia/assets/110561471/5b33b2bb-14af-4ec0-b3d2-3857cde383ee">
+
+## Create Post
+<img width="725" alt="Screenshot 2023-10-02 020528" src="https://github.com/LuvChaudhary33/NextPedia/assets/110561471/360e5723-063d-4f73-9a7d-63d0ae9032fe">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
